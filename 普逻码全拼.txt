@@ -11980,6 +11980,7 @@
 嫰	nenNT
 恁	nenX
 呢	neO
+哪	neOP
 吶	neOQ
 讷	neY
 訥	neYQ
@@ -14159,7 +14160,8 @@
 筁	quKQ
 籧	quKS
 袪	quKT
-劬	quL
+曲	quL
+劬	quLC
 朐	quLP
 竘	quLQ
 竬	quLS
@@ -14205,7 +14207,6 @@
 屈	quP
 磲	quPP
 欪	quQQ
-曲	quR
 去	quS
 岖	quSC
 祛	quSD
