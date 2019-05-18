@@ -482,8 +482,6 @@
 魞	baYZ
 跋	baZ
 跁	baZQ
-毕	beB
-庇	beG
 揹	beiAQ
 北	beiB
 贝	beiBP
@@ -614,7 +612,6 @@
 倴	benVQ
 翉	benYQ
 逩	benZQ
-跛	beZ
 抃	bianAQ
 揙	bianAS
 贬	bianB
